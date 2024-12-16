@@ -1,0 +1,6 @@
+Package: RProtoBufLib
+Version: 2.13.1
+Suggests: knitr, rmarkdown
+License: BSD_3_clause
+MD5sum: e89968d1ba82b2a9cc35b429d5df8588
+NeedsCompilation: yes
